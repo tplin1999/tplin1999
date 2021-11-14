@@ -36,7 +36,7 @@
    ⌞ 程式碼：https://github.com/tplin1999/Tic_Tac_Toe_Android_Java<BR>   
       
  ## <a href="https://github.com/tplin1999/2021_CAD_Contest_Problem_F" target="blank"><B>2021 積體電路電腦輔助設計軟體製作競賽</B></a> <BR>
-   <img src="CAD_CONTEST.png" width="500" height="300"><BR>
+   <img src="CAD_CONTEST.png" width="400"><BR>
    ⌞ 我選擇的是 Problem F ，題目是 Verilog Simulation Optimization via Instruction Reduction<BR>
    ⌞ 使用 C++完成，這份程式可將 Verilog code 大幅縮減 <BR>
    ⌞ 程式碼：https://github.com/tplin1999/2021_CAD_Contest_Problem_F<BR>
