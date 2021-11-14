@@ -40,3 +40,8 @@
    ⌞ 我選擇的是 Problem F ，題目是 Verilog Simulation Optimization via Instruction Reduction<BR>
    ⌞ 使用 C++完成，這份程式可將 Verilog code 大幅縮減 <BR>
    ⌞ 程式碼：https://github.com/tplin1999/2021_CAD_Contest_Problem_F<BR>
+
+ ## <a href="https://github.com/tplin1999/Verilog_Generator" target="blank"><B>Verilog Generator</B></a> <BR>
+   ⌞ Verilog generator是一個 EDA工具，這個工具可以將 benchmark轉換成 Verilog的形式<BR>
+   ⌞ 使用 C++完成 <BR>
+   ⌞ 程式碼：https://github.com/tplin1999/Verilog_Generator<BR>
